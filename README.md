@@ -1,1 +1,6 @@
 # Predictive-Modelling
+Predictive modeling is a vital component of modern data analysis, allowing organizations to anticipate trends and make informed, data-driven decisions. This report focuses on the application of predictive modeling using R, with an emphasis on an e-commerce sales dataset. The primary objective of this study is to analyze the dataset, conduct exploratory data analysis (EDA), and develop machine learning models to predict product return behavior.
+
+The dataset contains key variables such as product category, price, discount, quantity, customer segment, and region, which influence the likelihood of product returns. By leveraging statistical techniques and visualization tools, this analysis aims to uncover patterns in return behavior, assess the impact of pricing and discounts, and determine key factors influencing returns.
+
+Various predictive models, including Random Forest, Logistic Regression, and Linear Regression, are employed to classify return behavior and evaluate their performance using accuracy metrics and confusion matrices. The findings from this study provide valuable insights into e-commerce sales trends and highlight the importance of predictive analytics in optimizing business strategies.
