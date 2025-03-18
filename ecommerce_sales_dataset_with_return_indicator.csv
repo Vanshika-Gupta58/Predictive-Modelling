@@ -1,0 +1,301 @@
+Transaction ID,Category,Product Name,Price,Discount,Quantity,Region,Customer Segment,Date of Purchase,Payment Method,Return,Return Indicator
+1fbe9f9b-898c-4370-9f81-b9a29d1b8eaa,Smartwatches,Samsung Galaxy Watch 5,712.17,48.22,5,East,Retail,10-03-2024,Debit Card,Yes,1
+6956bb92-3ac9-4e86-915f-1f07424c7751,Accessories,Power Bank,1129.28,286.24,2,West,Retail,15-06-2024,Debit Card,No,0
+bc886461-9756-439b-80cc-b66e247ed29a,Cameras,Canon EOS 90D,360.22,46.92,1,West,Corporate,30-11-2024,Debit Card,No,0
+8307458a-ecfb-4f32-832b-25e615fba5bf,Smartwatches,Samsung Galaxy Watch 5,1167.15,85.35,1,South,Corporate,24-05-2024,Cash on Delivery,Yes,1
+32c49a03-e05b-408a-9698-fb0cc78a6db0,Smartphones,iPhone 14,316.59,1.52,4,South,Retail,31-12-2024,Net Banking,No,0
+ca2f563c-14ee-4c20-aa70-eb394c6ad614,Laptops,Lenovo ThinkPad X1,1815.53,197.78,2,East,Retail,29-02-2024,Debit Card,No,0
+502a5fc3-7e58-49fa-8cc8-69b4e5cfae21,Smartphones,Samsung Galaxy S22,1932.96,119.62,5,North,Retail,26-11-2024,UPI,No,0
+e388796e-d033-4654-b23a-918d5b740f8c,Smartphones,Samsung Galaxy S22,1131.62,174.69,3,South,Retail,06-03-2024,UPI,No,0
+f89ea2bc-4447-4c72-b9b2-56e24b690750,Smartphones,OnePlus 11,979.01,31.95,1,East,Small Business,01-08-2024,Cash on Delivery,No,0
+b5a98bee-6963-4f29-b2fc-d4b469a2356d,Laptops,Dell XPS 15,392.79,67.59,5,South,Retail,09-09-2024,Net Banking,No,0
+0e49fefc-cb03-4350-a1e3-63c9a6be53b4,Accessories,Wireless Mouse,986.4,268.78,2,South,Small Business,29-03-2024,Cash on Delivery,No,0
+fd4a6cf7-52c7-41b5-9cf5-967003506491,Tablets,Microsoft Surface Go,1965.74,150.37,1,West,Corporate,12-02-2024,Debit Card,Yes,1
+44a1ce2b-a6f1-48d5-866e-5efabb7d55aa,Laptops,MacBook Pro,1073.31,202.53,4,East,Retail,21-04-2024,Credit Card,No,0
+4bd14037-f1b7-4e78-8c14-5fce87c1afc9,Accessories,Headphones,1333.88,378.75,5,West,Corporate,02-01-2025,Net Banking,No,0
+02929372-4488-4b8d-8344-ad967a467915,Cameras,Sony Alpha a7 III,908.45,95.43,5,West,Small Business,08-07-2024,Net Banking,Yes,1
+8e22ce26-e045-4441-9e04-a7ef09d330bb,Accessories,Bluetooth Keyboard,393.48,19.72,4,East,Small Business,14-08-2024,Credit Card,Yes,1
+26ce8cce-438b-4095-ab43-741357f3661b,Tablets,Lenovo Tab P11,904.24,172.68,3,East,Corporate,03-12-2024,Cash on Delivery,No,0
+397f898f-5630-4884-9958-01d4fc866224,Accessories,Bluetooth Keyboard,1231.28,333.36,3,North,Small Business,01-09-2024,Net Banking,No,0
+65acd36d-759d-44c9-b782-e3637ac0c54d,Laptops,Dell XPS 15,1741.68,320.98,1,South,Small Business,15-05-2024,Net Banking,No,0
+f49468d1-eced-4de4-8687-ca15b583fcbf,Accessories,Headphones,592.31,87.8,5,South,Corporate,19-09-2024,UPI,No,0
+71186488-b298-4079-a86a-e160355df448,Tablets,Microsoft Surface Go,1802.87,204.19,2,West,Corporate,03-03-2024,Credit Card,No,0
+c94c9e8a-58ff-414e-b306-2c59500d7ecd,Smartphones,Samsung Galaxy S22,1498.68,320.27,2,South,Corporate,14-07-2024,Net Banking,No,0
+8a01b23f-a6a5-4205-bcbc-ac1eb73d3c9b,Laptops,Dell XPS 15,1729.9,294.4,3,East,Retail,11-04-2024,Credit Card,No,0
+8b2b063b-d749-4978-aea2-64c19351f5b0,Tablets,Lenovo Tab P11,1760.06,221.68,2,East,Corporate,09-01-2025,Credit Card,No,0
+a681beba-6fbb-4a61-b138-e5cf87d5b5f7,Smartphones,OnePlus 11,1066.99,232.6,3,West,Small Business,05-07-2024,Debit Card,Yes,1
+568580e0-e8ca-4657-b48f-960222b38ae6,Tablets,Lenovo Tab P11,1355.63,106.28,2,North,Corporate,28-07-2024,Net Banking,No,0
+993a02fb-da48-4404-8d90-745371da4048,Tablets,Samsung Galaxy Tab S8,1314.21,245.06,4,South,Small Business,01-11-2024,Credit Card,No,0
+372d5016-32a8-448a-acea-13f4ff5d6b10,Cameras,Sony Alpha a7 III,1261.11,80.76,2,South,Retail,06-10-2024,Net Banking,No,0
+7ac22bac-c077-4d77-8bdd-7ee87e09fed9,Laptops,Lenovo ThinkPad X1,1002.6,160.81,1,North,Small Business,10-07-2024,UPI,No,0
+310718d3-3f09-4e3b-802f-319528d4c22b,Smartwatches,Fitbit Sense,1228.49,356.74,5,South,Small Business,15-02-2024,Cash on Delivery,No,0
+702988a3-453a-4d00-af76-f05eb1c946c0,Tablets,iPad Air,1037.42,11.66,5,East,Small Business,10-05-2024,Net Banking,No,0
+851592cc-e241-49dc-ad01-0b0a4802f35d,Cameras,Fujifilm X-T4,963.96,13.66,4,North,Small Business,12-11-2024,Credit Card,No,0
+97e7ad21-69a8-4353-a68c-c342968d8c47,Accessories,Bluetooth Keyboard,1795.06,415.4,4,South,Small Business,07-11-2024,UPI,No,0
+9ca43d27-1ca4-4fed-bfc6-bd4e02c1e46c,Accessories,Bluetooth Keyboard,1182.9,10.47,1,North,Small Business,22-01-2024,Credit Card,No,0
+39d4af1d-b8a6-491d-b5aa-18215a6cfa86,Tablets,Microsoft Surface Go,485.27,89.61,2,West,Retail,05-11-2024,Cash on Delivery,No,0
+195b7b74-18a8-484c-8e82-68aa155461d8,Accessories,Headphones,187.08,36.79,3,West,Retail,09-11-2024,UPI,No,0
+0e8e1026-782d-4ea2-a55d-2c8e218bc8d5,Tablets,iPad Air,1772.73,125.38,3,South,Retail,29-09-2024,Debit Card,No,0
+a72eb027-eb9f-4982-83a6-506873eae148,Smartphones,Google Pixel 7,1462.08,165.16,2,West,Corporate,06-03-2024,Credit Card,No,0
+aa0c99e4-5cf8-49e7-820c-197923285ba0,Laptops,Dell XPS 15,1824.3,539.27,4,East,Small Business,28-05-2024,Net Banking,No,0
+80d2515a-ed84-4ea3-9f1b-bd9fe33d563c,Smartwatches,Fitbit Sense,837.26,90.72,3,West,Small Business,01-08-2024,Credit Card,No,0
+20da66d3-1088-4436-92df-9f2f4ec0ad9a,Tablets,iPad Air,235.38,18.42,2,North,Retail,27-08-2024,Debit Card,No,0
+94fbacf0-4d3a-4658-a48a-87f05b2a2ff6,Tablets,Lenovo Tab P11,1642.8,316.28,3,South,Corporate,13-03-2024,Net Banking,No,0
+c9c865c2-5c9a-406c-8b02-6690e2cc780b,Smartwatches,Apple Watch Series 8,247.69,53.84,4,North,Corporate,27-02-2024,Cash on Delivery,No,0
+39ba64c7-78d6-455b-9984-e28caef02730,Smartphones,iPhone 14,1392.32,277.13,3,South,Corporate,15-02-2024,Cash on Delivery,No,0
+ce2de5b1-7b3a-49d1-98d0-22858dd0720d,Laptops,MacBook Pro,280.41,74.68,3,North,Retail,28-07-2024,UPI,No,0
+c4515f94-ab38-454a-a892-14fbc04e47c9,Smartphones,Google Pixel 7,1128.01,253.66,3,North,Small Business,05-07-2024,Credit Card,No,0
+9d4ae902-26ca-4256-8c48-32eea0a0769d,Smartwatches,Apple Watch Series 8,1167.86,243.74,1,South,Corporate,03-11-2024,Debit Card,No,0
+32d7a2c7-039e-48fe-859a-8cd777744359,Smartwatches,Apple Watch Series 8,1706.08,288.99,5,South,Corporate,12-08-2024,Debit Card,No,0
+c5b38f8d-80f7-4af3-a580-1d71438fe4c5,Accessories,Wireless Mouse,1863.35,518,3,East,Corporate,20-09-2024,UPI,No,0
+da6c7f9b-b7c3-4a19-b94a-c6fa633a4b6e,Cameras,Fujifilm X-T4,839.21,60.01,3,South,Small Business,02-11-2024,Credit Card,No,0
+7365ead5-3018-4b8a-9dd1-69496cc01a27,Smartphones,OnePlus 11,1450.68,170.17,4,South,Retail,29-07-2024,Net Banking,No,0
+638351ca-ea8e-4f20-969a-3ac6e8f9cf74,Accessories,Wireless Mouse,1294.32,75.18,1,North,Retail,01-12-2024,Net Banking,No,0
+9cb11fee-5b58-4671-b92a-87a460d58918,Smartwatches,Fitbit Sense,1369.78,245.83,5,North,Retail,13-09-2024,Net Banking,No,0
+22c0c4a4-fa8f-44c3-9233-4fae9f413330,Cameras,Canon EOS 90D,204.26,41.44,1,North,Corporate,28-01-2024,Cash on Delivery,No,0
+d0c01bc9-218a-45a7-a86e-34fa76121ef4,Laptops,MacBook Pro,190.06,37.97,2,West,Small Business,25-02-2024,Net Banking,Yes,1
+951c2f31-2ac5-49e1-92eb-457c64317a03,Laptops,Lenovo ThinkPad X1,659.07,94.08,2,South,Retail,15-03-2024,Net Banking,No,0
+1c9d026c-8983-4eed-b436-243d7fa38086,Accessories,Bluetooth Keyboard,1354.93,145.77,3,North,Corporate,07-02-2024,Credit Card,No,0
+4524463d-8512-4d68-ae7a-d356e90b244b,Smartphones,OnePlus 11,750.02,143.12,1,West,Corporate,08-03-2024,Cash on Delivery,No,0
+a2053362-a9ba-4e0c-ab6d-60532678db0f,Smartphones,iPhone 14,1085.67,95.81,2,South,Retail,05-06-2024,UPI,Yes,1
+2f94b503-a28a-46dd-9f24-d772e55c6375,Cameras,Sony Alpha a7 III,1576.78,381,3,West,Retail,13-01-2025,Debit Card,No,0
+d8a5d4d5-9036-4b59-9507-33f8882a386d,Accessories,Wireless Mouse,1711.66,281.68,1,West,Retail,31-10-2024,Net Banking,Yes,1
+f9fb1c4c-41e3-4125-ab85-5c68b5077d82,Smartwatches,Apple Watch Series 8,162.95,10.32,1,North,Corporate,29-12-2024,UPI,No,0
+a2befbfe-8715-4ad4-a1a3-1bea5f9f54ed,Laptops,Lenovo ThinkPad X1,405.75,15.58,3,North,Small Business,04-05-2024,Cash on Delivery,No,0
+cec8a946-4bda-4349-9b72-84e67072bb46,Laptops,HP Spectre x360,1574.94,28.14,2,West,Retail,08-12-2024,UPI,No,0
+20b702da-cccd-4e79-b76a-5469ce57f9d1,Laptops,Lenovo ThinkPad X1,1184.83,66.18,3,East,Small Business,21-03-2024,Credit Card,No,0
+2504122d-4d84-4683-9eba-3752cd496eac,Laptops,Dell XPS 15,444.63,16.8,5,South,Retail,04-02-2024,Cash on Delivery,No,0
+f794942c-e51c-4274-9ff7-cb37fe3a8196,Smartwatches,Fitbit Sense,200.64,57.72,4,West,Retail,02-02-2024,Net Banking,No,0
+076836eb-f3d8-4d3e-885a-9f3a2d073e94,Smartwatches,Fitbit Sense,1590.26,349.22,2,East,Small Business,02-05-2024,Debit Card,No,0
+76f3390a-a7cf-45c4-aaa7-0652e0b2c826,Smartwatches,Apple Watch Series 8,1727.87,20.57,2,South,Retail,16-06-2024,UPI,No,0
+09796b00-7d68-4f5a-8a5c-b3ee0ddfaaef,Laptops,HP Spectre x360,358.57,97.34,5,North,Corporate,02-12-2024,Net Banking,Yes,1
+f9611540-c5d2-4d29-8369-8178915b96a0,Laptops,HP Spectre x360,1014.52,94.48,4,West,Small Business,24-05-2024,Credit Card,No,0
+af47fa9c-c483-4a63-bc17-7b85cc219c05,Smartwatches,Fitbit Sense,1644.13,243.24,2,West,Retail,18-10-2024,UPI,No,0
+ef990ce6-d611-4102-9490-39966e3f1d28,Accessories,Power Bank,341.85,95.08,4,North,Retail,19-08-2024,Cash on Delivery,No,0
+3e3ef37f-fbcf-4605-9290-7f25bf7fc3ae,Laptops,Dell XPS 15,1774.77,75.42,4,South,Corporate,26-02-2024,Credit Card,No,0
+43dd22e1-a66d-4cdd-8ae1-bc0e086e81c8,Laptops,MacBook Pro,1438.69,238.76,5,North,Retail,29-03-2024,Net Banking,Yes,1
+ad81e532-0ead-418e-a820-0fedebac9025,Laptops,Lenovo ThinkPad X1,465.74,122.24,5,South,Small Business,03-02-2024,Net Banking,No,0
+9dea5d79-314b-482a-b87f-78b45f20c3ef,Smartphones,Google Pixel 7,1958.53,169.49,5,South,Corporate,22-01-2024,UPI,No,0
+f4888d43-ff54-4c3c-96e3-b7e1344174ea,Laptops,Lenovo ThinkPad X1,370.65,83.31,2,South,Corporate,01-05-2024,UPI,No,0
+70949bbc-fd8d-48fa-b0bb-4c33ae1ab0fa,Cameras,Sony Alpha a7 III,1076.89,190.78,4,East,Corporate,11-07-2024,Credit Card,No,0
+8f4ffc50-fde3-46c2-93ed-7535dfc7c99a,Cameras,Nikon Z6,348.46,70.33,2,South,Small Business,05-05-2024,Debit Card,No,0
+7b169b3b-e478-4479-ab4d-75ad20f6d1ad,Accessories,Wireless Mouse,592.47,24.7,5,West,Corporate,10-12-2024,Net Banking,No,0
+9fe1d735-01ff-4d4e-9dd3-8129f3475063,Smartwatches,Samsung Galaxy Watch 5,815.97,36.3,4,East,Corporate,11-11-2024,Debit Card,No,0
+a3b185b4-f85b-46bd-b16c-1dc65b49479b,Tablets,Lenovo Tab P11,800.67,168.7,5,East,Small Business,13-07-2024,Credit Card,No,0
+a4eef863-b08a-4cfa-8cb6-b2114a2c5c27,Accessories,Wireless Mouse,183.72,32.28,3,North,Small Business,13-05-2024,Debit Card,No,0
+0cadd069-1c16-4a32-97bb-02e02958e8b3,Cameras,Sony Alpha a7 III,1287.71,323,3,South,Small Business,30-05-2024,UPI,No,0
+56efa171-cfe2-4b30-9651-7e0c0fbbaa0d,Tablets,Microsoft Surface Go,1032,102.79,5,North,Small Business,14-04-2024,Credit Card,No,0
+201b7542-2249-4b73-9e3c-08387f83a0d7,Smartwatches,Garmin Fenix 7,724.69,101.33,5,South,Small Business,18-09-2024,Cash on Delivery,No,0
+daa66102-cb22-4356-83b6-5a97fd5fe902,Smartphones,Google Pixel 7,1697.51,127.76,2,South,Small Business,15-04-2024,Net Banking,No,0
+a086e306-faf3-4ffb-ab2b-cfff87ff8dca,Cameras,Canon EOS 90D,1012.3,3.86,1,East,Corporate,23-04-2024,Cash on Delivery,Yes,1
+85db78cf-5f73-419f-ac82-cbbd3b575641,Smartwatches,Fitbit Sense,272.46,48.71,2,North,Retail,12-10-2024,Credit Card,No,0
+f2e1eb47-8d8c-43ce-8801-7c175bec5ba9,Smartphones,iPhone 14,475.89,133.88,1,East,Retail,09-10-2024,Net Banking,No,0
+92f8d112-6cbd-4996-8ccb-6b400c378f4a,Smartwatches,Samsung Galaxy Watch 5,1034.8,221.73,1,West,Retail,30-09-2024,Debit Card,No,0
+f69dbcb1-ce74-4be7-b8ef-890ea8767cf7,Accessories,Bluetooth Keyboard,347.16,48.42,5,South,Corporate,14-01-2025,Debit Card,No,0
+eb783633-3578-403a-b69a-97c830a56d24,Laptops,Lenovo ThinkPad X1,1915.29,6.56,1,East,Small Business,18-11-2024,Debit Card,Yes,1
+1fef54f2-87a8-4b2a-9cb3-aa0d1050ef1a,Accessories,Wireless Mouse,517.03,90.43,3,South,Retail,29-05-2024,Credit Card,No,0
+3101501b-ab30-4992-ac61-a498d2534455,Cameras,Sony Alpha a7 III,1202.89,173.39,3,North,Retail,09-08-2024,Cash on Delivery,No,0
+19e7948b-f004-4f82-8a30-070124fbc90c,Cameras,Sony Alpha a7 III,1870.97,524.84,1,South,Retail,01-04-2024,Cash on Delivery,No,0
+c996459d-75b2-4933-ae81-8bd0748aae27,Smartwatches,Apple Watch Series 8,1003.61,198.27,4,West,Retail,24-10-2024,Debit Card,No,0
+22c5feb4-82a2-4490-b901-67a6335b0a44,Accessories,Headphones,947.2,255.94,5,West,Retail,27-11-2024,Credit Card,Yes,1
+e9a5b27d-3d39-47b4-8d6b-21075bed34aa,Cameras,Fujifilm X-T4,1903.11,135.43,3,South,Small Business,05-12-2024,Credit Card,No,0
+5b5a528d-ff56-4bf6-9f8e-2780edacaa3e,Cameras,Fujifilm X-T4,85.13,19.5,5,South,Small Business,07-03-2024,Cash on Delivery,Yes,1
+f3f31540-bbf9-473d-a41a-5d2a3e4e4a56,Smartphones,OnePlus 11,1924.79,278.69,3,South,Small Business,02-09-2024,Net Banking,No,0
+ed0f9ad8-0ff8-4a25-b4c7-d79d5e4dc880,Tablets,Lenovo Tab P11,1289.25,307.62,3,West,Corporate,19-12-2024,Credit Card,No,0
+b0dda6c8-b7ce-46d7-a9db-8642dc85d235,Laptops,MacBook Pro,1529.53,407.54,5,South,Corporate,26-04-2024,Debit Card,No,0
+86ec672f-850a-48c5-ae18-a56ae723991e,Tablets,Microsoft Surface Go,1488.28,298.2,3,South,Small Business,13-04-2024,Net Banking,No,0
+1d6b4ad8-72cd-47f3-bca4-2211459f6334,Smartwatches,Fitbit Sense,1414.68,79.95,3,North,Small Business,15-07-2024,Net Banking,No,0
+8167add0-cc2e-4594-accc-fb26dba44d11,Smartphones,iPhone 14,1558.46,256.2,1,West,Small Business,22-02-2024,Credit Card,No,0
+fc59dd11-4f99-4610-a623-0cfd7f6f57f6,Accessories,Headphones,1659.97,489.85,2,West,Retail,18-02-2024,Credit Card,No,0
+79471eab-12e9-4276-9628-5d7af8914e46,Tablets,Lenovo Tab P11,877.42,231.91,1,West,Small Business,15-06-2024,Cash on Delivery,Yes,1
+9a2fde47-88e8-422d-b5fa-2b3d4a272b7e,Smartwatches,Samsung Galaxy Watch 5,1207.47,107.94,5,West,Small Business,29-10-2024,UPI,No,0
+eb0a0f77-d603-4c4b-a10f-8cfc57e26f23,Tablets,Microsoft Surface Go,1091.2,273.63,1,East,Corporate,02-01-2025,Credit Card,Yes,1
+c8592337-e6c9-44f3-8a80-a52bddbce921,Tablets,iPad Air,1917.9,392.92,1,South,Retail,27-03-2024,Net Banking,No,0
+b73597fa-9a92-44dc-9c12-4b23220b667a,Smartphones,Google Pixel 7,443.85,83.86,2,North,Retail,23-05-2024,Net Banking,No,0
+265a26ea-8bb6-49dc-a03e-2892d7fc7313,Tablets,Microsoft Surface Go,1208.3,318,3,South,Retail,02-08-2024,Debit Card,No,0
+e35a95e2-e710-4ed7-9749-e0c45db0f029,Laptops,MacBook Pro,1038.39,237.83,4,North,Corporate,31-07-2024,Credit Card,No,0
+cc9fb651-d52c-4c5b-8c31-837cdb98204b,Smartwatches,Samsung Galaxy Watch 5,1017.16,278.48,5,West,Small Business,12-09-2024,Net Banking,Yes,1
+0fea7338-3250-4102-ab4b-ac4f633254d6,Tablets,Microsoft Surface Go,128.54,36.32,5,South,Retail,26-07-2024,Debit Card,No,0
+3c8b4059-f54f-4ba2-a27b-b8598832bc8f,Laptops,MacBook Pro,431.89,107.64,2,East,Retail,11-09-2024,Cash on Delivery,No,0
+ec47fb28-daef-47c5-b9b3-5005afe1992c,Accessories,Power Bank,1230.57,85.44,2,East,Retail,18-10-2024,UPI,No,0
+0c97cd7c-300e-40b7-ba43-2cdffe339270,Smartwatches,Samsung Galaxy Watch 5,784.01,25.97,2,East,Retail,02-06-2024,Credit Card,Yes,1
+fc333b6c-1a0b-4b69-9f8a-3db1b105e4ef,Smartphones,Samsung Galaxy S22,760.12,63.21,2,North,Corporate,07-11-2024,Cash on Delivery,Yes,1
+de6f5c83-b24a-4e51-9afd-f4ebc14e4b4e,Laptops,MacBook Pro,582.44,110.66,2,South,Corporate,18-02-2024,Net Banking,Yes,1
+14e3a516-ac32-4902-a77f-fbc090fea84f,Accessories,Wireless Mouse,1085.41,112.73,2,West,Retail,29-07-2024,Net Banking,No,0
+4a8238cf-d9a3-4541-85bb-06bb41128e04,Smartwatches,Apple Watch Series 8,901.95,157.11,3,East,Retail,22-11-2024,Debit Card,No,0
+9909baa0-3213-430d-aa0a-ef3f4ac245db,Tablets,Microsoft Surface Go,1693.4,392.86,4,West,Retail,24-10-2024,Credit Card,No,0
+5db2be10-bac0-4d5b-84b0-9a389720ec0b,Smartphones,Samsung Galaxy S22,1984.93,564.18,1,East,Corporate,02-07-2024,Credit Card,Yes,1
+ad0bcee6-d389-421d-bcdd-cc0b4482c27c,Smartphones,iPhone 14,1199.4,56.94,1,West,Retail,08-09-2024,Net Banking,No,0
+e13d7af7-beeb-45f1-beb0-091d042a060c,Smartphones,Google Pixel 7,226.68,50.8,2,West,Small Business,04-07-2024,Debit Card,No,0
+dfbd10f9-22b1-4b1e-9688-d347dc197dad,Accessories,Wireless Mouse,1727.46,154.04,2,East,Corporate,24-01-2024,UPI,No,0
+fb39a7ec-70b0-48a0-b959-b6c37a562174,Accessories,Power Bank,1418.87,402.86,2,East,Small Business,08-08-2024,Net Banking,No,0
+39dc171c-4ba8-4a93-aa61-c1ed592928d6,Cameras,Sony Alpha a7 III,259.74,28.51,1,East,Retail,18-04-2024,Cash on Delivery,No,0
+64df8e36-952d-47b5-b646-a6a9d8365c16,Cameras,Sony Alpha a7 III,1100.2,22.05,3,North,Retail,02-06-2024,Cash on Delivery,No,0
+47ec3092-3884-4047-92a8-f1145511b029,Accessories,Bluetooth Keyboard,400.35,3.76,2,South,Small Business,19-03-2024,Credit Card,No,0
+ac1ff9ed-8ccc-45e6-9571-d762c1fa3ab3,Smartphones,Google Pixel 7,467.33,68.96,5,North,Retail,22-01-2024,Cash on Delivery,No,0
+40724ac7-7da1-424c-8ddd-54dd90d50520,Cameras,Fujifilm X-T4,1141,119.37,3,West,Retail,11-04-2024,Credit Card,Yes,1
+35c7cf3d-e771-4b90-be82-e46cb7916e7d,Smartwatches,Fitbit Sense,118.73,20.13,2,East,Small Business,04-05-2024,Net Banking,No,0
+3bb9c557-c089-4db1-9df9-d04db667312a,Accessories,Bluetooth Keyboard,506.24,81.43,5,East,Retail,26-08-2024,Cash on Delivery,No,0
+f61fee53-b195-4cc0-bde8-e4a773bf0306,Tablets,Microsoft Surface Go,1830.89,189.86,5,East,Small Business,19-08-2024,UPI,No,0
+12ef55b8-6af1-4a7b-b599-6e2a3415a5d6,Tablets,iPad Air,1702.35,74.66,4,West,Corporate,10-01-2025,Debit Card,No,0
+3a7068ef-e1e3-453d-b161-be2ea66460bf,Accessories,Bluetooth Keyboard,1863.92,148.95,2,West,Corporate,31-03-2024,Cash on Delivery,No,0
+fdc12ce9-6321-4043-81b3-90129fc40f82,Tablets,Samsung Galaxy Tab S8,1538.98,420.96,2,South,Small Business,11-03-2024,Debit Card,No,0
+f1acd17e-1a90-44e8-a033-42dcff1bada3,Tablets,Samsung Galaxy Tab S8,1253.2,360.41,5,West,Corporate,19-08-2024,Debit Card,No,0
+b1df6103-50ef-4ba6-ba82-f47770fd45f5,Accessories,Wireless Mouse,716.71,77.25,4,North,Small Business,03-07-2024,Debit Card,No,0
+ffeea2bf-2e19-4129-a99b-b0659dbae408,Tablets,Lenovo Tab P11,1732.85,298.81,5,South,Corporate,19-05-2024,Debit Card,No,0
+7d7b80df-7205-4d90-925c-188a467f0fc1,Smartwatches,Fitbit Sense,1013.37,162.7,2,East,Retail,24-12-2024,Credit Card,No,0
+eeb5ccc0-bea7-4b63-8fcd-3a7ae97e1241,Accessories,Bluetooth Keyboard,1254.69,253.8,2,West,Retail,02-02-2024,Cash on Delivery,Yes,1
+4a8b25dd-5228-42c2-a4ff-6407c46e2490,Accessories,Power Bank,1237.23,189.19,2,North,Retail,20-06-2024,Cash on Delivery,Yes,1
+9d8c9fce-4e1e-4bd5-a5ed-6f68bb1cfe8d,Accessories,Bluetooth Keyboard,1612.85,381.82,4,West,Small Business,15-11-2024,Debit Card,No,0
+73959e36-0028-4f25-af77-f15c869aa072,Laptops,MacBook Pro,642.79,103.97,2,North,Small Business,29-09-2024,Cash on Delivery,No,0
+0d15864f-00fe-45b9-b930-d454226d277b,Laptops,Lenovo ThinkPad X1,1962.9,104.23,3,North,Corporate,23-02-2024,Cash on Delivery,No,0
+25682fe4-d37a-49f2-aa85-5f0b14f15bf2,Accessories,Headphones,1969.32,547.27,3,North,Retail,25-08-2024,Net Banking,No,0
+030f2c31-f151-4f5b-b8d9-298d06cd11a8,Tablets,Microsoft Surface Go,909.6,246.08,1,West,Small Business,27-11-2024,Net Banking,No,0
+d25fc55a-3824-4408-9884-a258678e1dbe,Tablets,Samsung Galaxy Tab S8,1156.75,124.42,3,West,Retail,02-11-2024,Credit Card,No,0
+bb3ab57b-722e-4970-abf4-f0a139913294,Tablets,Lenovo Tab P11,236.66,37.16,2,West,Small Business,08-05-2024,UPI,No,0
+4185a4d4-c5ef-4912-a1d3-f8c4f54f1d2f,Smartwatches,Apple Watch Series 8,1091.35,297.16,3,West,Corporate,27-12-2024,Cash on Delivery,No,0
+67466f01-e8c9-4ffe-ad56-6f6c7cae9bc7,Cameras,Nikon Z6,1961.21,492.57,5,West,Retail,25-06-2024,Cash on Delivery,No,0
+9b38204e-89e0-4a8f-b0ac-160426c64a5d,Tablets,iPad Air,264.9,58.36,2,South,Corporate,14-03-2024,Credit Card,No,0
+2ddb8a8a-1caf-4a30-801c-847833b86d36,Cameras,Nikon Z6,840.93,219.03,5,East,Corporate,10-02-2024,Net Banking,No,0
+210225c0-eb56-45e5-a7b2-b492a485528f,Tablets,Samsung Galaxy Tab S8,1218.31,133.14,4,North,Small Business,26-01-2024,Debit Card,No,0
+f8f83fc8-ef4f-4502-b508-a7cabf3e14f6,Cameras,Nikon Z6,1598.2,198.14,4,North,Small Business,13-04-2024,Debit Card,Yes,1
+d5a4f7d5-ecfc-4e49-af80-f5e09c0768ce,Laptops,MacBook Pro,1775.42,368.54,1,East,Retail,24-03-2024,UPI,No,0
+e990198a-a020-4de3-858f-f6cbb13adab0,Laptops,Dell XPS 15,1196.7,269.73,2,South,Retail,30-11-2024,UPI,No,0
+5dbedf3c-9a7c-4102-af04-f5f69e763a40,Laptops,Dell XPS 15,1336.18,152.68,3,West,Small Business,11-02-2024,UPI,No,0
+7a36a3be-2081-4ddb-82b9-1952a0247448,Cameras,Fujifilm X-T4,335.2,90.9,5,North,Retail,23-06-2024,Net Banking,Yes,1
+caeffbe9-7395-43b8-81c6-b6e96c3d7e9f,Laptops,Lenovo ThinkPad X1,1521.24,162.36,4,North,Small Business,10-09-2024,Credit Card,No,0
+fbbe61aa-c91e-4984-bcc0-193f004fd7b0,Smartwatches,Garmin Fenix 7,933.72,94.09,1,East,Small Business,23-02-2024,Cash on Delivery,No,0
+87df2ed8-9691-4451-b729-0d9193746fb0,Smartwatches,Garmin Fenix 7,899.95,135.1,2,North,Corporate,01-08-2024,UPI,No,0
+e40c422b-f0e1-4d67-8a9b-b445e593ff8a,Smartwatches,Garmin Fenix 7,514.69,61.38,2,South,Corporate,07-10-2024,Net Banking,Yes,1
+b21d182a-c99a-46a9-9378-4c6694fbab4d,Smartwatches,Garmin Fenix 7,1106.23,30.68,1,South,Small Business,21-10-2024,Credit Card,No,0
+d7685883-dd0a-4d35-83fa-32107cb4e9b1,Smartphones,iPhone 14,1301.62,362.68,5,South,Corporate,24-10-2024,Net Banking,No,0
+0bd3e3c4-1b14-42ff-93be-44f0a0d3ecaa,Smartphones,iPhone 14,1146.98,281.81,4,West,Small Business,22-03-2024,Net Banking,No,0
+eb403c75-e9bf-4f03-80be-5bf18af5dbe2,Cameras,Nikon Z6,599.18,176.37,5,South,Small Business,23-05-2024,Net Banking,No,0
+fd85fcc4-5349-4a00-9760-215fcdee2604,Smartphones,Samsung Galaxy S22,1726.14,109.78,3,West,Small Business,25-11-2024,Net Banking,No,0
+09c57270-e684-4f58-b4ef-1fc7133d2ae4,Tablets,iPad Air,715.05,113.97,3,North,Retail,01-05-2024,Net Banking,Yes,1
+a5693281-5b23-4d28-9283-0f96774a0d7c,Smartphones,OnePlus 11,251.08,66.75,2,East,Small Business,02-02-2024,Net Banking,No,0
+b98f96de-d916-4318-9e19-5460e4a53ee9,Accessories,Bluetooth Keyboard,440.21,97.23,5,West,Small Business,29-12-2024,Credit Card,No,0
+674f3ca2-9bcb-4544-ab64-1d00515cda96,Cameras,Fujifilm X-T4,917.9,58.02,3,West,Retail,26-07-2024,Net Banking,No,0
+506168c9-70c4-44d0-84f7-b789c07ba50a,Laptops,MacBook Pro,958.06,275.51,4,North,Small Business,08-11-2024,Net Banking,Yes,1
+d9d9e192-0076-4a21-9d37-aecf8233c0aa,Tablets,Samsung Galaxy Tab S8,851.16,35.74,1,South,Small Business,19-02-2024,UPI,Yes,1
+e9df23d2-5969-40fa-b783-87b8983c37fb,Smartwatches,Apple Watch Series 8,660.04,89.2,5,West,Corporate,05-08-2024,Credit Card,No,0
+45d87c7e-ebfc-40d5-a40b-d5e2df642e0f,Laptops,HP Spectre x360,731.19,192.62,4,South,Retail,13-06-2024,Credit Card,No,0
+400e63fb-5fe8-4fbd-8476-a094d6e2cb54,Tablets,Lenovo Tab P11,246.81,24.94,3,East,Corporate,03-02-2024,Net Banking,No,0
+05ce002e-c6eb-47ff-87ef-fc066e1ff022,Tablets,Lenovo Tab P11,980.18,137.9,4,South,Retail,21-03-2024,Credit Card,No,0
+66310b3a-5d21-42b8-8704-14393200293f,Tablets,iPad Air,1650.73,367.78,5,East,Corporate,20-06-2024,UPI,Yes,1
+76ad38f5-eb03-4412-a56a-adcbe7a9a2ab,Accessories,Headphones,1535.78,308.66,3,West,Small Business,04-01-2025,UPI,No,0
+c88fc8b9-a0de-4aab-ac43-0a88d91ddee9,Cameras,Sony Alpha a7 III,995.13,154.36,2,North,Small Business,24-08-2024,UPI,No,0
+1f6e621a-efd2-4bdc-a506-4db22f7f511b,Accessories,Wireless Mouse,1069.33,191.1,3,West,Small Business,01-07-2024,Net Banking,No,0
+36a4522d-551a-4bb3-8c7e-9e4be457bd9c,Tablets,Samsung Galaxy Tab S8,70.7,19.04,3,East,Retail,29-07-2024,Credit Card,No,0
+646e6b83-8dcf-4f46-afc9-3e34e0d2be93,Accessories,Wireless Mouse,1508.52,249.12,4,East,Small Business,20-03-2024,Net Banking,No,0
+38ab6497-9d70-4504-8f97-b081e21c96ce,Smartphones,OnePlus 11,1035.79,48.43,1,North,Retail,14-11-2024,Credit Card,No,0
+0029a356-68e3-4c1b-bac7-e5193c530d80,Laptops,Dell XPS 15,1629.2,321.11,5,West,Corporate,30-03-2024,Net Banking,No,0
+460a303e-cf5e-466a-bf80-a33757abe268,Accessories,Wireless Mouse,199.97,5.08,4,East,Retail,07-03-2024,UPI,No,0
+990452ef-b003-4f96-81ec-14b6fef8d14e,Smartwatches,Apple Watch Series 8,1296.68,164.42,2,West,Small Business,08-01-2025,Net Banking,No,0
+e9ccbd0d-a70f-47b9-b775-79cc0e4a88a4,Tablets,iPad Air,753.28,189.39,5,East,Small Business,08-05-2024,Cash on Delivery,No,0
+85cab3fd-371b-4118-a963-98c85f78092d,Tablets,Samsung Galaxy Tab S8,450.26,117.77,1,West,Retail,25-06-2024,Net Banking,No,0
+644c9ee6-087b-4d27-ad7c-82136aadee04,Tablets,Microsoft Surface Go,1701.47,64.61,2,West,Small Business,12-08-2024,Credit Card,No,0
+8bbc4129-df5f-4f5d-bc79-c62aca56bc0a,Laptops,Dell XPS 15,557.77,161.93,4,North,Retail,04-04-2024,UPI,No,0
+0494fcb6-cbe0-46e1-8f71-4d881a8d8631,Tablets,Lenovo Tab P11,1362.03,64.29,2,South,Small Business,06-06-2024,Cash on Delivery,No,0
+10ab5536-c950-40de-bb28-b2518b4560f1,Smartphones,OnePlus 11,1069.55,10.46,2,North,Small Business,14-11-2024,Cash on Delivery,No,0
+8089ded1-3720-4ab1-8266-260557e38b00,Smartphones,iPhone 14,715.63,127.95,4,South,Small Business,24-10-2024,Cash on Delivery,Yes,1
+718b97de-3a10-4e7c-a536-142b410e5c27,Laptops,Lenovo ThinkPad X1,168.44,31.29,1,West,Small Business,15-12-2024,Credit Card,Yes,1
+287f5c98-ccdd-4e37-9768-e730a42ddfde,Smartwatches,Apple Watch Series 8,174.72,28.33,3,South,Small Business,03-06-2024,Net Banking,No,0
+14444d8a-0c39-4ca9-a5ce-6820bdfe492b,Cameras,Nikon Z6,1454.83,53.38,2,West,Corporate,13-08-2024,Credit Card,Yes,1
+95f3eac3-f53c-4ffe-a1fa-68aa57f8c151,Smartphones,Google Pixel 7,1010.42,281.24,5,North,Corporate,19-06-2024,Credit Card,Yes,1
+0bacfd73-f495-4c64-97a7-d1f044ffc030,Cameras,Nikon Z6,1196.82,21.25,5,East,Corporate,03-11-2024,Credit Card,No,0
+b3a07e93-6c50-4686-a222-6cf17a716d3c,Smartphones,iPhone 14,1332.09,299.28,5,East,Corporate,09-01-2025,Cash on Delivery,Yes,1
+e36606a9-441d-4aba-bbd0-46287c5bbe0d,Tablets,iPad Air,1262.55,208.37,3,South,Retail,08-04-2024,Credit Card,No,0
+5ba204bc-a45e-43f1-a1ba-607ed822c230,Accessories,Bluetooth Keyboard,1893.42,391.56,1,East,Retail,01-07-2024,UPI,No,0
+33afbd5d-a809-4681-8d0d-1ae3df02d2a0,Accessories,Headphones,214.1,38.24,5,South,Corporate,15-11-2024,Net Banking,No,0
+eb0964c2-27a3-44ee-8963-7d8ec39abf93,Laptops,Dell XPS 15,1217.86,122.71,1,West,Small Business,09-05-2024,Net Banking,No,0
+1f2cbc7a-3c14-4aac-86d6-4e0a1b46eb99,Smartphones,Google Pixel 7,1889.35,342.51,5,West,Corporate,08-02-2024,Cash on Delivery,No,0
+52705120-7546-42b7-92f8-134e1edf2fcf,Tablets,Samsung Galaxy Tab S8,1022.28,86.69,2,North,Retail,03-10-2024,Cash on Delivery,No,0
+f1d82250-8772-4c80-9ec3-57eac333fa71,Smartphones,Google Pixel 7,369.1,101.62,2,West,Corporate,21-03-2024,UPI,Yes,1
+8d528532-c832-44ea-93ef-764d62a07647,Laptops,HP Spectre x360,959.21,287.73,1,West,Corporate,03-06-2024,Credit Card,No,0
+7cdbc2d6-17ea-486e-b684-85ab000e95e9,Laptops,HP Spectre x360,1967.71,556.21,3,North,Small Business,24-06-2024,Debit Card,No,0
+a41966ec-17c7-423e-804c-8c5316a6d2e1,Accessories,Headphones,289.05,69.75,2,South,Corporate,19-01-2024,Net Banking,No,0
+aa71b5c7-f773-4c3f-8dc1-53db90de5863,Laptops,Lenovo ThinkPad X1,1875.5,48.82,5,West,Retail,24-12-2024,Cash on Delivery,No,0
+8c020232-b266-49ec-b712-6711b9ffedb6,Laptops,Lenovo ThinkPad X1,886.41,191.95,4,South,Small Business,03-07-2024,Cash on Delivery,No,0
+668dd204-6270-4214-a78a-22723994b9ed,Smartphones,OnePlus 11,1042.54,91.48,2,South,Corporate,09-04-2024,UPI,Yes,1
+ffe696d8-1958-4e0b-b535-5f7d922674df,Laptops,Lenovo ThinkPad X1,1197.43,151.61,3,North,Corporate,19-10-2024,Net Banking,No,0
+6a176b08-00eb-4cbf-b175-d48b6ab80fe6,Accessories,Power Bank,879.08,86.72,3,North,Small Business,14-03-2024,UPI,No,0
+480831f2-94ac-4d29-8292-d4db220e8939,Smartphones,Samsung Galaxy S22,1533.43,28.44,4,South,Small Business,03-01-2025,Cash on Delivery,No,0
+2eb1663b-ec8b-429b-a509-50f2e8d37880,Laptops,HP Spectre x360,1802.72,355.69,3,West,Retail,29-02-2024,Credit Card,No,0
+18ed6498-bea5-40ee-b8a5-15209555b894,Laptops,Lenovo ThinkPad X1,285.15,17.84,1,North,Retail,17-11-2024,Cash on Delivery,No,0
+ea855b1d-33de-43b9-95f0-638857e2a94d,Cameras,Sony Alpha a7 III,1984.45,228.66,3,West,Corporate,09-06-2024,Credit Card,No,0
+b1b8932d-b207-4f89-9bef-a260cfdae381,Smartwatches,Samsung Galaxy Watch 5,77.11,22.86,1,West,Small Business,26-06-2024,Net Banking,No,0
+5a6e6e4c-5571-412e-b1c3-192b8e351609,Accessories,Power Bank,1342.28,68.94,3,West,Corporate,20-03-2024,Credit Card,No,0
+c2d15f9f-dd38-41a9-86bd-cc26fd3e0c55,Laptops,MacBook Pro,1565.81,153.73,5,West,Small Business,28-07-2024,Debit Card,No,0
+27fa849d-52b5-49fd-b8b5-d63ca45b0ae3,Smartphones,Samsung Galaxy S22,1894.23,373.53,5,North,Retail,08-10-2024,Credit Card,No,0
+a7e641ed-65f7-4653-91ef-3ad960619051,Smartphones,Samsung Galaxy S22,1387.83,127.56,4,North,Retail,16-06-2024,Credit Card,No,0
+6394d0cc-e075-429e-a1ef-6d40b82c4021,Cameras,Nikon Z6,802.26,216.13,2,West,Corporate,03-04-2024,Credit Card,No,0
+b75c406e-87c2-4169-bae1-84b39f32adcb,Smartwatches,Garmin Fenix 7,1652.07,78.91,5,East,Retail,24-05-2024,Credit Card,No,0
+7e8163c5-7c79-4599-88de-924754002d74,Cameras,Canon EOS 90D,1450.3,376.39,3,North,Small Business,17-01-2024,Cash on Delivery,No,0
+c424840e-b2c8-492a-bf29-1fe82c4e40d2,Tablets,iPad Air,616.94,110.35,2,South,Corporate,14-01-2025,Credit Card,Yes,1
+22ab7912-1042-4da6-9658-84f4af3cd21c,Accessories,Bluetooth Keyboard,90.2,15.88,1,South,Retail,17-07-2024,UPI,No,0
+f3eb8875-ff48-428d-aa1f-285e6e6ff9df,Tablets,Samsung Galaxy Tab S8,478.77,110.19,2,South,Corporate,30-11-2024,UPI,No,0
+60b8349c-7881-41eb-b36a-eb77424e17ca,Accessories,Wireless Mouse,916.07,140.8,1,West,Retail,24-06-2024,UPI,Yes,1
+c44a27fe-1065-4024-8f51-70a4df52939a,Cameras,Nikon Z6,1058.93,177.32,3,North,Small Business,02-09-2024,UPI,No,0
+d963f76d-a7f8-42b8-9de2-3b1487c26590,Laptops,Lenovo ThinkPad X1,1274.76,288.22,2,West,Corporate,27-04-2024,Debit Card,No,0
+20317b20-9c1a-424d-874d-a82bc021d192,Tablets,Samsung Galaxy Tab S8,1688.7,480.57,1,East,Corporate,30-08-2024,Debit Card,Yes,1
+5bdd3a29-cd00-4e7d-8664-867bfe699e37,Accessories,Bluetooth Keyboard,1266.32,92.1,3,West,Small Business,09-04-2024,Debit Card,No,0
+78cbe106-9c51-48b8-9cbb-a1865cfa1577,Smartwatches,Samsung Galaxy Watch 5,1550.28,325.56,3,West,Small Business,23-02-2024,UPI,No,0
+264746d1-4f12-45a9-8cc5-c431f9febc77,Accessories,Headphones,1093.42,142.14,4,East,Corporate,27-03-2024,Net Banking,No,0
+bf10ce2a-cf6a-4f11-8dc2-126622cd7744,Tablets,iPad Air,435.4,35,4,North,Corporate,17-02-2024,Credit Card,No,0
+0509fa48-3536-4e39-aaa9-86a9f6f7a111,Smartwatches,Samsung Galaxy Watch 5,948.12,136.54,4,East,Retail,22-04-2024,Debit Card,No,0
+82d16fc7-68c1-40f0-9853-b05f43afad03,Smartphones,Google Pixel 7,1830.52,242.48,1,North,Small Business,14-06-2024,Cash on Delivery,No,0
+bc07b72c-1d69-4033-80a2-92950b2af8c1,Smartphones,Google Pixel 7,1616.42,227.59,2,South,Corporate,05-05-2024,Credit Card,No,0
+0cdc7c32-c090-4cf6-a238-09855e645d3a,Cameras,Fujifilm X-T4,1086.71,177.99,3,South,Small Business,17-09-2024,Debit Card,No,0
+e61b33fa-ed61-4881-98a0-0f82c42e1355,Laptops,Dell XPS 15,264.41,12.35,3,North,Corporate,17-06-2024,Net Banking,Yes,1
+4d609517-eb69-4735-9cfa-1b01b41620fd,Smartwatches,Fitbit Sense,1483.93,316.17,2,West,Retail,01-12-2024,Debit Card,No,0
+dadc63d4-8c84-4cb0-b550-02563eea3281,Cameras,Sony Alpha a7 III,768.62,125.23,5,South,Small Business,16-05-2024,Debit Card,No,0
+003b444c-90f4-475c-8eb1-b2aef476c413,Laptops,Dell XPS 15,679.38,148.05,4,West,Small Business,26-11-2024,UPI,Yes,1
+a609fadc-3ddf-4221-bc92-6ef71ab9249d,Accessories,Power Bank,1018.73,196.5,4,South,Retail,22-07-2024,Net Banking,Yes,1
+9327d0cc-9aaa-4067-a033-05b5bb6b9ae2,Accessories,Wireless Mouse,1066.71,195.95,1,North,Corporate,21-02-2024,Credit Card,Yes,1
+858c76ff-947e-49d4-95b4-f1dc5eb139e5,Smartphones,Samsung Galaxy S22,304.37,78.72,5,North,Retail,08-10-2024,UPI,No,0
+2ba26b4f-8b3a-49d8-b2ad-a0ce189940ae,Accessories,Headphones,1764.27,296.89,4,North,Retail,15-07-2024,Credit Card,No,0
+07227da2-5b10-4d04-9e62-5b4c8d3963c2,Cameras,Sony Alpha a7 III,126.91,1.94,5,West,Corporate,29-05-2024,Debit Card,No,0
+6f56dea6-3405-4597-b7b4-37c2a163e659,Tablets,Microsoft Surface Go,837.29,111.24,4,South,Retail,04-11-2024,Credit Card,No,0
+1890bca4-30ce-4f59-b411-1d869e6770db,Accessories,Power Bank,971.41,158.76,4,North,Corporate,11-01-2025,UPI,No,0
+d6436f29-8a3f-4d82-b57e-abe4eccb8bb7,Tablets,Lenovo Tab P11,1325.85,28.3,5,North,Retail,23-12-2024,UPI,No,0
+0efa6cfa-6b25-4ffb-a555-08f517f3ae61,Smartphones,Samsung Galaxy S22,1225.34,137.82,5,East,Small Business,17-07-2024,Net Banking,Yes,1
+0bac6d16-01a0-446b-99ef-0030bacb1b45,Smartphones,Google Pixel 7,650.82,122.76,1,West,Corporate,15-07-2024,Credit Card,Yes,1
+ac2c478c-c67b-4658-aebf-077a18cec43b,Accessories,Power Bank,904.67,247.59,3,North,Retail,06-03-2024,UPI,No,0
+034cc7e4-02a1-4688-b4d1-69116136f05b,Smartphones,iPhone 14,540.78,41.14,4,North,Corporate,06-01-2025,Debit Card,No,0
+52fb79d8-c779-4bd1-ac74-a88216df9731,Accessories,Power Bank,726.42,197.04,3,East,Corporate,17-04-2024,UPI,No,0
+7fd15a65-7eab-419c-ae49-1d106feba9e5,Smartwatches,Samsung Galaxy Watch 5,372.6,10.62,3,West,Corporate,18-01-2024,UPI,No,0
+6a60a739-b0e2-43fd-a3d6-6bc1e5adc0fd,Tablets,iPad Air,1886.56,192.76,5,South,Corporate,27-11-2024,Cash on Delivery,No,0
+e6f99a5c-6655-4f87-9303-47aa87079356,Tablets,Lenovo Tab P11,234.8,44.23,3,North,Retail,12-04-2024,UPI,No,0
+7e18e074-6392-4c6d-adc4-b7318457cfc9,Smartphones,Google Pixel 7,366.63,34.89,5,North,Small Business,11-02-2024,Net Banking,Yes,1
+cc3b58ed-ec1c-4a4c-a4fe-8a2682bbb70f,Cameras,Fujifilm X-T4,1535.01,127.42,3,South,Small Business,05-07-2024,Net Banking,Yes,1
+b0f95f63-e1e8-4fd7-b1de-cf24341b3a6d,Smartphones,Google Pixel 7,1761.64,317.02,4,West,Retail,18-02-2024,Credit Card,No,0
+d82b6334-1e99-42a2-8973-ca38f8da3f3e,Accessories,Power Bank,166.68,35.85,4,North,Small Business,03-04-2024,Credit Card,No,0
+c6a33879-e03b-402e-9779-609385e785b3,Smartwatches,Garmin Fenix 7,1365.59,4.68,1,South,Small Business,07-06-2024,Credit Card,No,0
+aaecd10f-1e5f-4d83-97e5-254f6077ce3e,Laptops,Lenovo ThinkPad X1,1707,316,4,South,Small Business,05-05-2024,Credit Card,No,0
+44601430-882e-4276-b37f-9300888e565a,Laptops,Lenovo ThinkPad X1,1471.18,255.31,5,East,Small Business,16-08-2024,Cash on Delivery,No,0
+722c3ab4-7696-4267-a1e5-e61453e595bf,Laptops,MacBook Pro,184.48,4.56,5,West,Small Business,07-07-2024,Credit Card,Yes,1
+b593d5c5-19c8-4096-9302-fb876b2521f9,Smartwatches,Apple Watch Series 8,1917.77,155.49,1,North,Corporate,29-12-2024,Credit Card,No,0
+15ad5f94-1e53-4237-9df3-49351d084b0e,Smartphones,Google Pixel 7,1557.82,178.25,3,North,Corporate,09-04-2024,Credit Card,No,0
+e611a873-84ee-4603-b1ac-0e975cb765ef,Accessories,Power Bank,1174.3,34.45,4,South,Small Business,02-10-2024,Debit Card,No,0
+989cffad-3457-431f-b249-6ea76fb876a2,Tablets,iPad Air,1977.04,6.86,3,South,Small Business,14-12-2024,Net Banking,Yes,1
+deebfcfe-cb24-4619-a3d0-830b2a6fa33d,Cameras,Canon EOS 90D,158.59,3.55,5,North,Small Business,24-11-2024,Cash on Delivery,No,0
+9e6f9198-0a12-48d7-afcf-e6e7d6707d9f,Accessories,Bluetooth Keyboard,192.68,4.65,3,South,Small Business,10-10-2024,Net Banking,Yes,1
+0c18ffd8-666a-4c2a-9857-a1c375c0f333,Accessories,Power Bank,437.09,20.6,1,West,Small Business,13-12-2024,Credit Card,No,0
+7209f370-51c3-4d6b-b169-67ded04afeb2,Accessories,Wireless Mouse,1825.98,409.12,3,North,Corporate,11-10-2024,Debit Card,No,0
+acfbe5d2-9061-4c95-ad5e-50ed630663bd,Smartwatches,Fitbit Sense,1537.29,401.04,5,South,Small Business,24-10-2024,Cash on Delivery,No,0
+59ec3a16-c747-4d42-990d-0edbf6e10809,Tablets,Microsoft Surface Go,1321.62,55.13,5,South,Corporate,01-11-2024,Debit Card,No,0
+f425f23c-aecb-4912-8e7e-34b6bc304909,Smartphones,iPhone 14,915.93,181.69,3,West,Retail,12-01-2025,Net Banking,Yes,1
+f5c562f1-2a1b-4ad7-869c-577e41a81ea0,Laptops,MacBook Pro,1145.32,316.84,2,West,Retail,11-02-2024,Net Banking,No,0
+bf1984db-6b44-450f-8b38-895a6e382b82,Cameras,Nikon Z6,1393.86,120.07,2,North,Small Business,24-06-2024,Net Banking,Yes,1
+8460518d-f7a3-4fa6-b061-09f4f629f6a3,Accessories,Headphones,1672.35,72.55,3,West,Retail,24-01-2024,Credit Card,No,0
+cafebbfe-8f0c-4535-98f1-9744295e90f9,Tablets,Lenovo Tab P11,525.76,61.11,2,South,Retail,27-09-2024,UPI,Yes,1
+efdf2ada-bca9-45fc-9ca6-a557595c8a95,Laptops,Dell XPS 15,1271.56,325.86,4,East,Corporate,25-06-2024,Debit Card,No,0
+0d9f1639-9d4b-4ee7-9595-5ae5f70260f8,Smartwatches,Fitbit Sense,694.78,121.72,1,West,Corporate,17-10-2024,Cash on Delivery,No,0
+7be79fb9-750b-48b9-8f67-f7eaa4d86ec4,Cameras,Nikon Z6,1411.33,397.75,1,South,Retail,27-01-2024,Debit Card,Yes,1
+aae08274-63d4-4cdc-9456-749aab9ee81d,Laptops,MacBook Pro,1075.23,97.25,2,North,Retail,24-06-2024,Credit Card,No,0
+d542ac7e-37f4-4f9d-9d47-6be62ad8c496,Smartwatches,Fitbit Sense,1919.48,541.93,5,North,Corporate,11-07-2024,UPI,No,0
+b98da5c8-6da5-4af5-94fa-690eab92a94d,Cameras,Canon EOS 90D,1397.61,400.91,3,North,Small Business,18-02-2024,UPI,No,0
+28339152-5553-4f27-87c3-80753cf1e700,Smartphones,Google Pixel 7,1928.54,346.3,1,West,Small Business,25-11-2024,Cash on Delivery,No,0
+3fd4ab15-c3b9-4dfb-92d9-be28f010f208,Cameras,Sony Alpha a7 III,219.39,39.26,5,West,Corporate,03-11-2024,Credit Card,No,0
+110cdda7-e566-4347-829e-e2d062ddf188,Smartwatches,Fitbit Sense,503.48,40.38,4,North,Corporate,12-01-2025,Debit Card,No,0
